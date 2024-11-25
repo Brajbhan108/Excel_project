@@ -1,5 +1,5 @@
 # HR Data Analysis
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze data. This process involved several stages, 
+I developed a comprehensive project in Excel, creating dashboards and tables to analyze data. This process involved several stages, 
 including data preprocessing, data cleaning, and data visualization.
 ## Project Objective 
 The primary objective of this project is to analyze employee data to identify key workforce trends, measure organizational performance, and 
